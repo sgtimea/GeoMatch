@@ -26,7 +26,7 @@ int main(int argv, char** argc) {
 	//	std::cout << "×óÓÒÓ°Ïñ³ß´ç²»Ò»ÖÂ£¡" << std::endl;
 	//	return -1;
 	//}
-
+	//git test
 	cv::Mat img_left = cv::imread("D:\\vsproject\\GeoMatch\\data\\view1.png", 1);
 	cv::Mat img_right = cv::imread("D:\\vsproject\\GeoMatch\\data\\view5.png", 1);
 	Match match;
